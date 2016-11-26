@@ -1,1 +1,1 @@
-This project is te first lesson of Android Nanodegree course
+This project is the first lesson of Android Nanodegree course.
